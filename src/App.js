@@ -17,7 +17,7 @@ function App() {
       <Tehran_Navbar/>
       <Home/>
       <Welcome/>
-      <Flavors/>
+      {/* <Flavors/> */}
       <HappyHour/>
       <HookahGalary/>
       <Tehran_Contact/>
