@@ -1,0 +1,82 @@
+.galary-box {
+  width: 100%;
+  height: 836px;
+  background-color: #21040c;
+}
+
+.galary-heading {
+  font-family: Yeseva One;
+  font-size: 64px;
+  font-weight: 400;
+  line-height: 73.92px;
+  text-align: center;
+  color: #d2ba83;
+}
+
+.g1 {
+  width: 368px;
+  height: 412px;
+  border: 1px 0px 0px 0px;
+  background-image: url("../assets/gallery01.png");
+}
+
+.g2 {
+  width: 368px;
+  height: 412px;
+  border: 1px 0px 0px 0px;
+  background-image: url("../assets/gallery02.png");
+}
+
+.g3 {
+  width: 368px;
+  height: 199px;
+  border: 1px 0px 0px 0px;
+  background-image: url("../assets/galleery03.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.g4 {
+  width: 368px;
+  height: 186px;
+  border: 1px 0px 0px 0px;
+  background-image: url("../assets/gallery04.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.brandsWeCarry {
+  font-family: Yeseva One;
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 46.2px;
+  text-align: center;
+  color: white;
+}
+
+.b1 {
+  width: 180px;
+  height: 120px;
+  background-image: url("../assets/brand01.png");
+  /* justify-content: center; */
+}
+
+.b2 {
+  width: 180px;
+  height: 120px;
+  background-image: url("../assets/brand02.png");
+}
+.b3 {
+  width: 180px;
+  height: 120px;
+  background-image: url("../assets/brand03.png");
+}
+.b4 {
+  width: 180px;
+  height: 120px;
+  background-image: url("../assets/brand04.png");
+}
+.b5 {
+  width: 180px;
+  height: 120px;
+  background-image: url("../assets/brand05.png");
+}

@@ -1,0 +1,102 @@
+.flavors-box {
+  width: 100%;
+  height: 842px;
+  background-color: #041917;
+}
+
+.flavors-heading {
+  font-family: Yeseva One;
+  font-size: 64px;
+  font-weight: 400;
+  line-height: 73.92px;
+  text-align: center;
+  color: #d1b982;
+  margin-top: 70px;
+}
+
+.sample-flavors {
+  width: 356px;
+  height: 483px;
+  margin-left: 7px;
+  margin-right: 7px;
+}
+
+.flavor-img {
+  width: 183.61px;
+  height: 245.23px;
+  margin-top: -123px;
+  margin-left: 40px;
+}
+
+.flavor-box {
+  width: 356px;
+  height: 361px;
+  gap: 0px;
+  opacity: 0px;
+  background: linear-gradient(180deg, #000000 0%, #001b18 100%);
+}
+
+.flavor-box-title {
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 36px;
+  text-align: center;
+  color: #d1b982;
+  vertical-align: middle;
+}
+
+.flavor-box-text {
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.flavor-box-bottom {
+  width: 356px;
+  height: 78px;
+  background-color: #7c9aa0;
+  padding: 0px;
+  margin: 0px;
+}
+
+.flavour-cards-top-margin {
+  margin-top: 125px;
+  justify-content: center;
+}
+
+.all-flavours {
+  width: 280px;
+  height: 60px;
+  border: 6px;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 30px;
+  text-align: center;
+  background-color: #d2ba83;
+}
+
+.all-flavours:hover {
+  background-color: #d2ba83;
+}
+
+.flv-button {
+  width: 100%;
+  height: 56px;
+  background-color: #7c9aa0;
+  color: black;
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 54px;
+  text-align: center;
+}
+
+.flv-button:hover {
+  background-color: #7c9aa0;
+  color: black
+}
